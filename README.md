@@ -17,14 +17,11 @@ This project automates the process of sorting and filtering company emails to th
 
 ## 📸 UI Snapshots
 
-```
-![Inbox](assets/add-new-department.png)
-![Filter Dropdown](assets/analytics-Dashboard.png)
-![Email Detail](assets/Department.png)
+![Emails per Department](assets/Department.png)
+![Analytical dashboard](assets/analytics-Dashboard.png)
+![Email list view](assets/emails.png)
+![add new depertmenmt for filter](assets/add-new-department.png)
 ![Email Detail](assets/email-view.png)
-![Email Detail](assets/emails.png)
-
-```
 
 Make sure your `assets` folder contains the images.
 
